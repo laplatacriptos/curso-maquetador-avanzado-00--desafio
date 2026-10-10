@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*BODY*/
+
+body {}
+
+;
+
+/*HEADER*/
+
+header {}
+
+.Header {}
+
+.navbar menu li {}
+
+.navbar menu .Item2 {}
+
+#item3 {}
+
+/*ASIDE*/
+
+aside {}
+
+.Aside {}
+
+/*MAIN*/
+
+main {}
+
+.Main {}
+
+/*FOOTER*/
+
+footer {}
+
+.Footer {}
