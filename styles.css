@@ -12,11 +12,14 @@ header {}
 
 .Header {}
 
-.navbar menu li {}
+.Header .navbar__menu {}
 
-.navbar menu .Item2 {}
+.Header .navbar__menu__item {}
 
-#item3 {}
+.Header .navbar__menu__item--icon {}
+
+.Header .navbar__menu__item--link {}
+
 
 /*ASIDE*/
 
